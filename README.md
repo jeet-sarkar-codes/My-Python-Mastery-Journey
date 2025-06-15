@@ -2,7 +2,7 @@
 
 ### Learning Python from Zero to Hero – Practical, Career-Aligned Pathway
 
-This repository tracks my structured journey to mastering Python from the ground up. The goal is to become highly proficient in Python for automation, cybersecurity, infrastructure scripting, and AI applications.
+This repository tracks my structured journey to mastering Python from the ground up. The goal is to become highly proficient in Python for data engineering, automation, cybersecurity, infrastructure scripting, and AI applications.
 
 ---
 
